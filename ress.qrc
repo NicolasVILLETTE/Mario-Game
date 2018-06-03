@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>menu.png</file>
+        <file>Brick_Block.png</file>
+        <file>dk.png</file>
+        <file>MarioWalkingG.png</file>
+        <file>MarioWakingD.png</file>
+        <file>MarioStaticG.png</file>
+        <file>MarioStaticD.png</file>
+        <file>background.png</file>
+        <file>BowserD.png</file>
+        <file>BowserG.png</file>
+        <file>boule.png</file>
+        <file>sombrero.png</file>
+    </qresource>
+    <qresource prefix="/Sound">
+        <file>Mario-Castle.ogg</file>
+        <file>Mario-Boss.ogg</file>
+        <file>Mario-Jump.ogg</file>
+        <file>Mario-GameOver.ogg</file>
+    </qresource>
+    <qresource prefix="/Font">
+        <file>Jumpman.ttf</file>
+    </qresource>
+</RCC>
